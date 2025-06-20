@@ -31,6 +31,17 @@ Props:
 - `stats` (object) — contains characterCount, wordCount, readingTime
 - `showReadingTime` (boolean) — whether to show reading time (default: true)
 
+## How To Run
+Clone the repository:
+git clone https://github.com/callmesophiii/character-counter-app.git
+cd character-counter
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
 ## Example Usage
 
 ```tsx
