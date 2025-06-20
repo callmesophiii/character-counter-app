@@ -33,14 +33,14 @@ Props:
 
 ## How To Run
 Clone the repository:
-git clone https://github.com/callmesophiii/character-counter-app.git
-cd character-counter
+- git clone https://github.com/callmesophiii/character-counter-app.git
+- cd character-counter
 
 Install dependencies:
-npm install
+- npm install
 
 Start the development server:
-npm run dev
+- npm run dev
 
 ## Example Usage
 
